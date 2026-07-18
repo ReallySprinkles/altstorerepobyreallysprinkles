@@ -294,6 +294,23 @@
           "size": 8080000
         }
       ]
+    },
+    {
+      "name": "Watusi3",
+      "bundleIdentifier": "net.whatsapp.WhatsApp",
+      "developerName": "CyPwn IPA Library / DPixel / MeemNon / zxcvbn’s tweaked IPAs / FouadRaheb",
+      "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: ✅",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png",
+      "size": 121685187,
+      "versions": [
+        {
+          "version": "24.24.83",
+          "date": "2025-01-08",
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/01-08-2025/Watusi3-24.24.83.ipa",
+          "size": 121685187,
+          "localizedDescription": "Initial release via repo sync."
+        }
+      ]
     }
   ],
   "news": [
