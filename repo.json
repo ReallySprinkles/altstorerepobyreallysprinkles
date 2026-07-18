@@ -144,6 +144,33 @@
           "localizedDescription": "Add exploit guidance to improve reliability on A12-A13 iPhones running iOS 14.6-14.8"
         }
       ]
+    },
+    {
+      "name": "Santander (MDC)",
+      "bundleIdentifier": "org.haxi0.santander",
+      "developerName": "haxi0",
+      "subtitle": "A Modern File Manager MacDirtyCow Devices",
+      "localizedDescription": "A new, enhanced File Manager for iOS devices with the MDC exploit (IOS 14.0 - 16.1.2) for full file access.\n\nSantander aims to enhance the experience of a file manager on an iOS device, using modern and familiar UI alongside new APIs.\n\nNote: The project is still in beta, and there still quite a lot of bugs to fix & enhancements to make.",
+      "iconURL": "https://static.appdb.to/images/cydia-1900001066-icon-1673074358.png",
+      "tintColor": "#596d8d",
+      "size": 4540000,
+      "screenshots": {
+        "iphone": [
+          { "width": 1170, "height": 2532, "imageURL": "https://static.appdb.to/images/cydia-1900001084-iphone-0-1674953851.png" },
+          { "width": 1170, "height": 2532, "imageURL": "https://static.appdb.to/images/cydia-1900001084-iphone-1-1674953851.png" },
+          { "width": 1170, "height": 2532, "imageURL": "https://static.appdb.to/images/cydia-1900001084-iphone-2-1674953851.png" },
+          { "width": 1170, "height": 2532, "imageURL": "https://static.appdb.to/images/cydia-1900001084-iphone-3-1674953851.png" }
+        ]
+      },
+      "versions": [
+        {
+          "version": "0.4",
+          "date": "2023-02-10",
+          "localizedDescription": "• Classic MDC overwrite is in the app, that means you can overwrite files in /System (hold a file to see a Replace action)\n\n• Respring action added.",
+          "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Santander.MDC.v0.4.ipa",
+          "size": 4540000
+        }
+      ]
     }
   ],
   "news": [
