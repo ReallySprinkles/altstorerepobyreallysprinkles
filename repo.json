@@ -15,7 +15,7 @@
       "versions": [
         {
           "version": "8.3.1",
-          "date": "2018-11-25",
+          "date": "2018-11-08",
           "downloadURL": "https://github.com/ReallySprinkles/altstorerepobyreallysprinkles/releases/download/8.3.1/TikTok.8.3.1.32-64Bit.ipa",
           "size": 86000000,
           "localizedDescription": "Initial release."
@@ -309,6 +309,41 @@
           "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/01-08-2025/Watusi3-24.24.83.ipa",
           "size": 121685187,
           "localizedDescription": "Initial release via repo sync."
+        }
+      ]
+    },
+    {
+      "name": "YTLite + Tweaks",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "developerName": "Google LLC.",
+      "subtitle": "A flexible enhancer for YouTube on iOS"
+      "localizedDescription": "modified version of Youtube supercharged with YTLite",
+      "iconURL": "https://raw.githubusercontent.com/YTLitePlus/YTLitePlus-Altstore/main/Youtube_logo-512.png",
+      "tintColor": "#e22a41",
+      "size": 130097628,
+      "beta": false,
+      "screenshots": {
+        "iphone": [
+          { "width": 1170, "height": 2532, "imageURL": "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr1.jpg" },
+          { "width": 1170, "height": 2532, "imageURL": "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr2.jpg" },
+          { "width": 1170, "height": 2532, "imageURL": "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr3.jpg" }
+        ]
+      },
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.developer.siri"
+        ],
+        "privacy": {
+          "NSUserTrackingUsageDescription": "This app requires tracking permission to deliver personalized content and advertisements."
+        }
+      },
+      "versions": [
+        {
+          "version": "20.31.6",
+          "date": "2025-08-07",
+          "downloadURL": "https://files.catbox.moe/omgrso.ipa",
+          "size": 130097628,
+          "localizedDescription": "• Updated YouTube to 20.31.6 (latest commits)\n • Tweak is using 5.2b2"
         }
       ]
     }
