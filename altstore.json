@@ -1,0 +1,24 @@
+{
+  "name": "test-repo",
+  "subtitle": "test",
+  "description": "test repo lol",
+  "iconURL": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/icon.png",
+  "website": "https://github.com/YOUR_USERNAME/YOUR_REPO",
+  "apps": [
+    {
+      "name": "My App Name",
+      "bundleIdentifier": "com.developer.myapp",
+      "developerName": "Your Name",
+      "localizedDescription": "A brief description of what your app does.",
+      "iconURL": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/app_icon.png",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "date": "2026-07-18",
+          "downloadURL": "https://github.com/YOUR_USERNAME/YOUR_REPO/releases/download/v1.0.0/myapp.ipa",
+          "localizedDescription": "Initial release."
+        }
+      ]
+    }
+  ]
+}
