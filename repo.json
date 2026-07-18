@@ -223,6 +223,50 @@
           "localizedDescription": "* Adds full support for iOS 12.5.5\n* Updates Sileo to 2.2.3\n* Removes fancy animation background on iPhone 5S / 6, iPad Air 1, iPod touch 6 and iPad mini 2 / 3 to use a more basic background in order to improve exploit success rate"
         }
       ]
+    },
+    {
+      "name": "iTorrent",
+      "bundleIdentifier": "com.xitrix.iTorrent2",
+      "developerName": "XITRIX",
+      "subtitle": "Torrent client for iOS",
+      "localizedDescription": "iTorrent officially in the AltStore!\n\nIt is an ordinary torrent client for iOS with Files app support and much more.\n\nWhat can this app do:\n\n• Download in the background\n• Live Activity and Dynamic Island progress bar\n• Downloading on external drives\n• Sequential download (use VLC to watch films while loading)\n• Add torrent files from Share menu (Safari and other apps)\n• Add magnet links directly from Safari\n• Store files in Files app\n• File sharing directly from app\n• Download torrent by url\n• Download torrent by magnet\n• Show progress in Dynamic Island\n• Send notification on torrent downloaded\n• Web/WebDav Server\n• Select files download priority\n• Change UI to dark theme\n• Color personalization\n• RSS Feed",
+      "iconURL": "https://raw.githubusercontent.com/XITRIX/xitrix.github.io/master/icon.png",
+      "tintColor": "#F19E69",
+      "beta": true,
+      "size": 8362011,
+      "screenshots": {
+        "iphone": [
+          { "width": 1170, "height": 2532, "imageURL": "https://raw.githubusercontent.com/XITRIX/xitrix.github.io/master/screenshots/1.PNG" },
+          { "width": 1170, "height": 2532, "imageURL": "https://raw.githubusercontent.com/XITRIX/xitrix.github.io/master/screenshots/2.PNG" },
+          { "width": 1170, "height": 2532, "imageURL": "https://raw.githubusercontent.com/XITRIX/xitrix.github.io/master/screenshots/3.PNG" }
+        ]
+      },
+      "appPermissions": {
+        "entitlements": ["com.apple.security.application-groups"],
+        "privacy": {
+          "NSLocalNetworkUsageDescription": "Needs to download torrents",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "More robust alternative to hold app working in background which requires additional permission",
+          "NSLocationWhenInUseUsageDescription": "More robust alternative to hold app working in background which requires additional permission"
+        }
+      },
+      "versions": [
+        {
+          "version": "2.1.1",
+          "date": "2025-12-18",
+          "localizedDescription": "Action buttons styling",
+          "downloadURL": "https://github.com/XITRIX/iTorrent/releases/download/v2.1.1-1/iTorrent.ipa",
+          "size": 8362011,
+          "minOSVersion": "16.0"
+        },
+        {
+          "version": "2.1.0",
+          "date": "2025-10-25",
+          "localizedDescription": "## What’s new\n* iOS 26 Support, iTorrent fully adopted new Liquid Glass design\n* LibTorrent updated to version 2.0.11\n* On first launch, app will ask if you'd like to use Cellular connection, instead of disabling it by default\n* Added localizations\n\n## Fixes\n* Crash on iOS <18 fixed",
+          "downloadURL": "https://github.com/XITRIX/iTorrent/releases/download/v2.1.0-1/iTorrent.ipa",
+          "size": 7092275,
+          "minOSVersion": "16.0"
+        }
+      ]
     }
   ],
   "news": [
