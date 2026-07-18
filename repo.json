@@ -502,6 +502,23 @@
           "localizedDescription": "Automated daily build"
         }
       ]
+    },
+    {
+      "name": "musical.ly",
+      "bundleIdentifier": "com.zhiliaoapp.musically",
+      "developerName": "ReallySprinkles",
+      "localizedDescription": "musical.ly v7.6.0",
+      "iconURL": "https://raw.githubusercontent.com/ReallySprinkles/altstorerepobyreallysprinkles/refs/heads/main/IMG_3020.png",
+      "size": 95944704,
+      "versions": [
+        {
+          "version": "7.6.0",
+          "date": "2018-11-07",
+          "downloadURL": "https://github.com/ReallySprinkles/altstorerepobyreallysprinkles/releases/download/7.6.0/musical.ly.7.6.0.32-64Bit.ipa",
+          "size": 95944704,
+          "localizedDescription": "Initial release."
+        }
+      ]
     }
   ],
   "news": [
