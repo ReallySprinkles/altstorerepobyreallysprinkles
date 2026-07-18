@@ -2,7 +2,7 @@
   "name": "ReallySprinkles's Repo",
   "subtitle": "ReallySprinkles's Repo",
   "description": "ReallySprinkles's Repo",
-  "iconURL": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/icon.png",
+  "iconURL": "https://raw.githubusercontent.com/ReallySprinkles/altstorerepobyreallysprinkles/main/icon.png",
   "website": "https://github.com/ReallySprinkles/altstorerepobyreallysprinkles",
   "apps": [
     {
@@ -19,24 +19,21 @@
           "localizedDescription": "Initial release."
         }
       ]
-    }
-  ]
-},
+    },
     {
       "name": "Your Second App Name",
       "bundleIdentifier": "com.developer.secondapp",
       "developerName": "ReallySprinkles",
       "localizedDescription": "A cool description for your second app.",
-      "iconURL": "https://raw.githubusercontent.com/ReallySprinkles/altstorerepobyrallysprinkles/main/second_app_icon.png",
+      "iconURL": "https://raw.githubusercontent.com/ReallySprinkles/altstorerepobyreallysprinkles/main/second_app_icon.png",
       "versions": [
         {
           "version": "1.0.0",
           "date": "2026-07-18",
-          "downloadURL": "https://github.com/ReallySprinkles/altstorerepobyrallysprinkles/releases/download/v1.0.0/secondapp.ipa",
+          "downloadURL": "https://github.com/ReallySprinkles/altstorerepobyreallysprinkles/releases/download/v1.0.0/secondapp.ipa",
           "localizedDescription": "Initial release."
         }
       ]
     }
   ]
 }
-
