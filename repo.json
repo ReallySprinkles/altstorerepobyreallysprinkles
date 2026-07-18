@@ -57,13 +57,23 @@
       "subtitle": "On-device JIT enabler and device toolbox.",
       "localizedDescription": "An on-device debugger and developer toolbox for iOS versions 17.4+ powered by idevice.  Note: Requires LocalDevVPN, cannot be natively used inside LiveContainer to enable JIT for the same LiveContainer.",
       "iconURL": "https://github.com/StephenDev0/StikDebug/blob/main/assets/StikDebug.png?raw=true",
+      "tintColor": "#3B86F7",
+      "size": 11996559,
+      "screenshots": {
+        "iphone": [
+          { "width": 1290, "height": 2796, "imageURL": "https://stikdebug.xyz/assets/source/home.png" },
+          { "width": 1290, "height": 2796, "imageURL": "https://stikdebug.xyz/assets/source/scripts.png" },
+          { "width": 1290, "height": 2796, "imageURL": "https://stikdebug.xyz/assets/source/settings.png" }
+        ]
+      },
       "appPermissions": {
         "entitlements": [],
         "privacy": {
           "NSLocalNetworkUsageDescription": "StikDebug needs access to devices on your local network so it can connect to the ip of the target device.",
           "NSLocationAlwaysAndWhenInUseUsageDescription": "StikDebug uses location to stay running in the background and maintain your connection. This can be turned off in settings.",
           "NSLocationWhenInUseUsageDescription": "StikDebug uses location to stay running in the background and maintain your connection. This can be turned off in settings."
-     ,
+        }
+      },
       "versions": [
         {
           "version": "3.1.6",
@@ -104,7 +114,6 @@
           "downloadURL": "https://github.com/StephenDev0/StikDebug/releases/download/3.1.2/StikDebug-3.1.2.ipa",
           "size": 10974298,
           "minOSVersion": "17.4"
-        {
         }
       ]
     }
