@@ -350,16 +350,6 @@
   ],
   "news": [
     {
-      "caption": "To download IPAs manually, click “Open Link” and you will be redirected to the releases page of the iPAs",
-      "date": "2026-07-18",
-      "identifier": "reallysprinkles-manually",
-      "notify": true,
-      "tintColor": "#5865f2",
-      "imageURL": "https://miro.medium.com/v2/resize:fit:1200/1*SSRjtoQ0H2X3SBPOiJ5rZw.jpeg",
-      "url": "https://github.com/ReallySprinkles/altstorerepobyreallysprinkles/releases",
-      "title": "Downloading IPAs manually"
-    },
-    {
       "caption": "The repo was down for a bit but it has been fixed now.",
       "date": "2026-07-18",
       "identifier": "reallysprinkles-down",
@@ -374,6 +364,16 @@
       "notify": true,
       "tintColor": "#3B878D",
       "title": "Repo is public now!"
+    },
+    {
+      "caption": "To download IPAs manually, click “Open Link” and you will be redirected to the releases page of the iPAs",
+      "date": "2026-07-19",
+      "identifier": "reallysprinkles-manually",
+      "notify": true,
+      "tintColor": "#5865f2",
+      "imageURL": "https://miro.medium.com/v2/resize:fit:1200/1*SSRjtoQ0H2X3SBPOiJ5rZw.jpeg",
+      "url": "https://github.com/ReallySprinkles/altstorerepobyreallysprinkles/releases",
+      "title": "Downloading IPAs manually"
     }
   ]
 }
