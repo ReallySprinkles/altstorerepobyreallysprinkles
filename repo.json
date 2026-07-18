@@ -11,11 +11,13 @@
       "developerName": "ReallySprinkles",
       "localizedDescription": "TikTok v8.3.1 from 2018",
       "iconURL": "https://raw.githubusercontent.com/ReallySprinkles/altstorerepobyreallysprinkles/refs/heads/main/IMG_2999.png",
+      "size": 90177536,
       "versions": [
         {
           "version": "8.3.1",
           "date": "2026-07-18",
           "downloadURL": "https://github.com/ReallySprinkles/altstorerepobyreallysprinkles/releases/download/8.3.1/TikTok.8.3.1.32-64Bit.ipa",
+          "size": 90177536,
           "localizedDescription": "Initial release."
         }
       ]
