@@ -36,14 +36,14 @@
       ]
     },
     {
-      "name": "Third App Name",
-      "bundleIdentifier": "com.developer.thirdapp",
+      "name": "TrollInstallerX",
+      "bundleIdentifier": "com.Alfie.TrollInstallerX",
       "developerName": "ReallySprinkles",
-      "localizedDescription": "Description for your third app.",
+      "localizedDescription": "TrollInstallerX",
       "iconURL": "https://raw.githubusercontent.com/ReallySprinkles/altstorerepobyreallysprinkles/refs/heads/main/YOUR_ICON.png",
       "versions": [
         {
-          "version": "1.0.0",
+          "version": "1.0.3",
           "date": "2026-07-18",
           "downloadURL": "https://github.com/ReallySprinkles/altstorerepobyreallysprinkles/releases/download/1.0.0/YOUR_APP.ipa",
           "localizedDescription": "Initial release."
