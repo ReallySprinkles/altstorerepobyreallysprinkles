@@ -356,6 +356,14 @@
       "notify": true,
       "tintColor": "#3B878D",
       "title": "Repo is back"
+    },
+    {
+      "caption": "The repo is now public",
+      "date": "2026-07-19",
+      "identifier": "reallysprinkles-public",
+      "notify": true,
+      "tintColor": "#3B878D",
+      "title": "Repo is public now!"
     }
   ]
 }
