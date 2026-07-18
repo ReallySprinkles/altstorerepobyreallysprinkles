@@ -478,6 +478,30 @@
           "NSLocalNetworkUsageDescription": "Amethyst uses the local network to find and communicate with AltServer and LAN servers."
         }
       }
+    },
+    {
+      "name": "iSH",
+      "bundleIdentifier": "app.ish.iSH",
+      "developerName": "Theodore Dubois and contributors",
+      "subtitle": "Linux shell for iOS",
+      "localizedDescription": "iSH is a project to get a Linux shell environment running locally on your iOS device, using a usermode x86 emulator.",
+      "iconURL": "https://ish.app/assets/icon-full.png",
+      "tintColor": "#000000",
+      "size": 4595946,
+      "screenshots": {
+        "iphone": [
+          { "width": 1242, "height": 2688, "imageURL": "https://ish.app/assets/front-iphone-full.png" }
+        ]
+      },
+      "versions": [
+        {
+          "version": "Build 811",
+          "date": "2026-07-18T06:47:55+00:00",
+          "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/811/iSH.ipa",
+          "size": 4595946,
+          "localizedDescription": "Automated daily build"
+        }
+      ]
     }
   ],
   "news": [
