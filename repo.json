@@ -559,6 +559,34 @@
           "downloadURL": "https://github.com/ReallySprinkles/altstorerepobyreallysprinkles/releases/download/9.1.58/com.spotify.client-9.1.58-Decrypted.ipa",
           "size": 155189248,
           "localizedDescription": "We’re always making changes and improvements to Spotify. To make sure you don’t miss a thing, just keep your Updates turned on."
+        },
+        {
+          "version": "9.1.56",
+          "date": "2026-06-18",
+          "downloadURL": "https://github.com/ReallySprinkles/altstorerepobyreallysprinkles/releases/download/9.1.56/com.spotify.client-9.1.56-Decrypted.ipa",
+          "size": 155189248,
+          "localizedDescription": "We’re always making changes and improvements to Spotify. To make sure you don’t miss a thing, just keep your Updates turned on."
+        },
+        {
+          "version": "9.1.50",
+          "date": "2026-06-07",
+          "downloadURL": "https://github.com/ReallySprinkles/altstorerepobyreallysprinkles/releases/download/9.1.50/com.spotify.client-9.1.50-Decrypted.ipa",
+          "size": 155189248,
+          "localizedDescription": "We’re always making changes and improvements to Spotify. To make sure you don’t miss a thing, just keep your Updates turned on."
+        },
+        {
+          "version": "9.1.48",
+          "date": "2026-06-02",
+          "downloadURL": "https://github.com/ReallySprinkles/altstorerepobyreallysprinkles/releases/download/9.1.48/com.spotify.client-9.1.48-Decrypted.ipa",
+          "size": 155189248,
+          "localizedDescription": "We’re always making changes and improvements to Spotify. To make sure you don’t miss a thing, just keep your Updates turned on."
+        },
+        {
+          "version": "9.1.46",
+          "date": "2026-05-26",
+          "downloadURL": "https://github.com/ReallySprinkles/altstorerepobyreallysprinkles/releases/download/9.1.46/com.spotify.client-9.1.46-Decrypted.ipa",
+          "size": 155189248,
+          "localizedDescription": "We’re always making changes and improvements to Spotify. To make sure you don’t miss a thing, just keep your Updates turned on."
         }
       ]
     }
