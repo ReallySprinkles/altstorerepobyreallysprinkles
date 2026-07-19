@@ -545,6 +545,20 @@
           "downloadURL": "https://github.com/ReallySprinkles/altstorerepobyreallysprinkles/releases/download/9.1.62/com.spotify.client-9.1.62-Decrypted.ipa",
           "size": 155189248,
           "localizedDescription": "We’re always making changes and improvements to Spotify. To make sure you don’t miss a thing, just keep your Updates turned on."
+        },
+        {
+          "version": "9.1.60",
+          "date": "2026-06-28",
+          "downloadURL": "https://github.com/ReallySprinkles/altstorerepobyreallysprinkles/releases/download/9.1.60/com.spotify.client-9.1.60-Decrypted.ipa",
+          "size": 155189248,
+          "localizedDescription": "We’re always making changes and improvements to Spotify. To make sure you don’t miss a thing, just keep your Updates turned on."
+        },
+        {
+          "version": "9.1.58",
+          "date": "2026-06-21",
+          "downloadURL": "https://github.com/ReallySprinkles/altstorerepobyreallysprinkles/releases/download/9.1.58/com.spotify.client-9.1.58-Decrypted.ipa",
+          "size": 155189248,
+          "localizedDescription": "We’re always making changes and improvements to Spotify. To make sure you don’t miss a thing, just keep your Updates turned on."
         }
       ]
     }
