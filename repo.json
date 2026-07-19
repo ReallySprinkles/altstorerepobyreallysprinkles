@@ -44,7 +44,7 @@
       "bundleIdentifier": "com.Alfie.TrollInstallerX",
       "developerName": "ReallySprinkles",
       "localizedDescription": "TrollInstallerX",
-      "iconURL": "https://raw.githubusercontent.com/ReallySprinkles/altstorerepobyreallysprinkles/refs/heads/main/IMG_3008.png",
+      "iconURL": "https://raw.githubusercontent.com/ReallySprinkles/altstorerepobyreallyreallysprinkles/refs/heads/main/IMG_3008.png",
       "versions": [
         {
           "version": "1.0.3",
@@ -64,7 +64,7 @@
       "tintColor": "#3B86F7",
       "size": 11996559,
       "screenshots": {
-        "iphone": [
+        "iPhone": [
           { "width": 1290, "height": 2796, "imageURL": "https://stikdebug.xyz/assets/source/home.png" },
           { "width": 1290, "height": 2796, "imageURL": "https://stikdebug.xyz/assets/source/scripts.png" },
           { "width": 1290, "height": 2796, "imageURL": "https://stikdebug.xyz/assets/source/settings.png" }
@@ -130,7 +130,7 @@
       "tintColor": "#000000",
       "size": 54489484,
       "screenshots": {
-        "iphone": [
+        "iPhone": [
           { "width": 1242, "height": 2688, "imageURL": "https://i.imgur.com/I3aRpPO.jpg" },
           { "width": 1242, "height": 2688, "imageURL": "https://i.imgur.com/mERBTaF.jpg" }
         ]
@@ -155,7 +155,7 @@
       "tintColor": "#596d8d",
       "size": 4540000,
       "screenshots": {
-        "iphone": [
+        "iPhone": [
           { "width": 1170, "height": 2532, "imageURL": "https://static.appdb.to/images/cydia-1900001084-iphone-0-1674953851.png" },
           { "width": 1170, "height": 2532, "imageURL": "https://static.appdb.to/images/cydia-1900001084-iphone-1-1674953851.png" },
           { "width": 1170, "height": 2532, "imageURL": "https://static.appdb.to/images/cydia-1900001084-iphone-2-1674953851.png" },
@@ -183,7 +183,7 @@
       "size": 31500000,
       "beta": false,
       "screenshots": {
-        "iphone": [
+        "iPhone": [
           { "width": 1170, "height": 2532, "imageURL": "https://taurine.app/assets/images/ss-1.png" },
           { "width": 1170, "height": 2532, "imageURL": "https://taurine.app/assets/images/ss-2.png" },
           { "width": 1170, "height": 2532, "imageURL": "https://taurine.app/assets/images/ss-3.png" }
@@ -209,7 +209,7 @@
       "tintColor": "#36AEB9",
       "size": 34432392,
       "screenshots": {
-        "iphone": [
+        "iPhone": [
           { "width": 1170, "height": 2532, "imageURL": "https://chimera.coolstar.org/img/jumbotron.png" },
           { "width": 1170, "height": 2532, "imageURL": "https://i.imgur.com/dpeAFtg.jpg" }
         ]
@@ -235,7 +235,7 @@
       "beta": true,
       "size": 8362011,
       "screenshots": {
-        "iphone": [
+        "iPhone": [
           { "width": 1170, "height": 2532, "imageURL": "https://raw.githubusercontent.com/XITRIX/xitrix.github.io/master/screenshots/1.PNG" },
           { "width": 1170, "height": 2532, "imageURL": "https://raw.githubusercontent.com/XITRIX/xitrix.github.io/master/screenshots/2.PNG" },
           { "width": 1170, "height": 2532, "imageURL": "https://raw.githubusercontent.com/XITRIX/xitrix.github.io/master/screenshots/3.PNG" }
@@ -279,7 +279,7 @@
       "size": 8080000,
       "beta": true,
       "screenshots": {
-        "iphone": [
+        "iPhone": [
           { "width": 1170, "height": 2532, "imageURL": "https://www.postbox.news/assets/images/thumbPhone.webp" },
           { "width": 1170, "height": 2532, "imageURL": "https://www.postbox.news/assets/images/newsPhone.webp" },
           { "width": 1170, "height": 2532, "imageURL": "https://www.postbox.news/assets/images/extractPhone.webp" }
@@ -322,7 +322,7 @@
       "size": 130097628,
       "beta": false,
       "screenshots": {
-        "iphone": [
+        "iPhone": [
           { "width": 1170, "height": 2532, "imageURL": "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr1.jpg" },
           { "width": 1170, "height": 2532, "imageURL": "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr2.jpg" },
           { "width": 1170, "height": 2532, "imageURL": "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr3.jpg" }
@@ -356,7 +356,7 @@
       "tintColor": "#9649B8",
       "category": "games",
       "screenshots": {
-        "iphone": [
+        "iPhone": [
           {
             "imageURL": "https://alt.crystall1ne.dev/net.kdt.pojavlauncher_iphone-ipod_1.PNG",
             "width": 2796,
@@ -378,7 +378,7 @@
             "height": 1290
           }
         ],
-        "ipad": [
+        "iPad": [
           {
             "imageURL": "https://alt.crystall1ne.dev/net.kdt.pojavlauncher_iphone-ipod_1.PNG",
             "width": 2796,
@@ -488,7 +488,7 @@
       "tintColor": "#000000",
       "size": 4595946,
       "screenshots": {
-        "iphone": [
+        "iPhone": [
           { "width": 1242, "height": 2688, "imageURL": "https://ish.app/assets/front-iphone-full.png" }
         ]
       },
@@ -530,7 +530,7 @@
       "size": 155189248,
       "beta": false,
       "screenshots": {
-        "iphone": [
+        "iPhone": [
           { "width": 1170, "height": 2532, "imageURL": "https://raw.githubusercontent.com/ReallySprinkles/altstorerepobyreallysprinkles/refs/heads/main/IMG_3031.png" },
           { "width": 1170, "height": 2532, "imageURL": "https://raw.githubusercontent.com/ReallySprinkles/altstorerepobyreallysprinkles/refs/heads/main/IMG_3032.png" },
           { "width": 1170, "height": 2532, "imageURL": "https://raw.githubusercontent.com/ReallySprinkles/altstorerepobyreallysprinkles/refs/heads/main/IMG_3033.png" },
