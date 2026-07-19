@@ -290,7 +290,6 @@
           "version": "0.8.1",
           "date": "2023-05-14",
           "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/PostBox.v0.8.1.ipa",
-          "localizedDescription": "• Added PostBox v0.8.1",
           "size": 8080000
         }
       ]
@@ -506,7 +505,7 @@
     {
       "name": "musical.ly",
       "bundleIdentifier": "com.zhiliaoapp.musically",
-      "developerName": "TikTok Ltd.",
+      "developerName": "ReallySprinkles",
       "localizedDescription": "musical.ly v7.6.0",
       "iconURL": "https://raw.githubusercontent.com/ReallySprinkles/altstorerepobyreallysprinkles/refs/heads/main/IMG_3020.png",
       "size": 95944704,
@@ -517,6 +516,35 @@
           "downloadURL": "https://github.com/ReallySprinkles/altstorerepobyreallysprinkles/releases/download/7.6.0/musical.ly.7.6.0.32-64Bit.ipa",
           "size": 95944704,
           "localizedDescription": "Initial release."
+        }
+      ]
+    },
+    {
+      "name": "Spotify: Music and Podcasts",
+      "bundleIdentifier": "com.spotify.client",
+      "developerName": "Spotify",
+      "subtitle": "Songs, Playlists & Audiobooks",
+      "localizedDescription": "With the Spotify app, you can explore an extensive library of music and podcasts for free. Curate the best playlists and stream millions of free songs, albums and original podcasts on your mobile or tablet. Subscribe to Spotify Premium to download and listen offline wherever you are, and unlock our catalogue of audiobooks.",
+      "iconURL": "https://raw.githubusercontent.com/ReallySprinkles/altstorerepobyreallysprinkles/refs/heads/main/IMG_3030.jpeg",
+      "tintColor": "#F65656",
+      "size": 155189248,
+      "beta": false,
+      "screenshots": {
+        "iphone": [
+          { "width": 1170, "height": 2532, "imageURL": "https://raw.githubusercontent.com/ReallySprinkles/altstorerepobyreallysprinkles/refs/heads/main/IMG_3031.png" },
+          { "width": 1170, "height": 2532, "imageURL": "https://raw.githubusercontent.com/ReallySprinkles/altstorerepobyreallysprinkles/refs/heads/main/IMG_3032.png" },
+          { "width": 1170, "height": 2532, "imageURL": "https://raw.githubusercontent.com/ReallySprinkles/altstorerepobyreallysprinkles/refs/heads/main/IMG_3033.png" },
+          { "width": 1170, "height": 2532, "imageURL": "https://raw.githubusercontent.com/ReallySprinkles/altstorerepobyreallysprinkles/refs/heads/main/IMG_3034.png" },
+          { "width": 1170, "height": 2532, "imageURL": "https://raw.githubusercontent.com/ReallySprinkles/altstorerepobyreallysprinkles/refs/heads/main/IMG_3035.png" }
+        ]
+      },
+      "versions": [
+        {
+          "version": "9.1.62",
+          "date": "2026-07-12",
+          "downloadURL": "https://github.com/ReallySprinkles/altstorerepobyreallysprinkles/releases/download/9.1.62/com.spotify.client-9.1.62-Decrypted.ipa",
+          "size": 155189248,
+          "localizedDescription": "We’re always making changes and improvements to Spotify. To make sure you don’t miss a thing, just keep your Updates turned on."
         }
       ]
     }
