@@ -529,6 +529,31 @@
           "localizedDescription": "We’re always making changes and improvements to Spotify. To make sure you don’t miss a thing, just keep your Updates turned on."
         }
       ]
+    },
+    {
+      "name": "PokeMMO",
+      "bundleIdentifier": "eu.pokemmo.client",
+      "developerName": "PokeMMO",
+      "localizedDescription": "PokeMMO is a free to play mmorpg, come join a growing community as you level up and discover new monsters. Available now on PC, Android, iOS, Mac, and Linux.",
+      "iconURL": "https://pokemmo.com/build/images/altstore.f5930b35.png",
+      "tintColor": "#73ACE2",
+      "size": 136520691,
+      "screenshotURLs": [
+        "https://pokemmo.com/build/images/screenshot/c.b5d935d8.png",
+        "https://pokemmo.com/build/images/screenshot/b.3a233486.png",
+        "https://pokemmo.com/build/images/screenshot/d.4080dd9c.png",
+        "https://pokemmo.com/build/images/screenshot/e.ed0aa85b.png",
+        "https://pokemmo.com/build/images/screenshot/a.debf11f5.png"
+      ],
+      "versions": [
+        {
+          "version": "31914",
+          "date": "2026-02-28",
+          "downloadURL": "https://dl.pokemmo.com/PokeMMO-Client.ipa?r=31914",
+          "size": 136520691,
+          "localizedDescription": "Initial release via repo sync."
+        }
+      ]
     }
   ],
   "news": [
