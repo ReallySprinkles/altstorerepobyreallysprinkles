@@ -230,7 +230,9 @@
         "https://raw.githubusercontent.com/XITRIX/xitrix.github.io/master/screenshots/3.PNG"
       ],
       "appPermissions": {
-        "entitlements": ["com.apple.security.application-groups"],
+        "entitlements": [
+          "com.apple.security.application-groups"
+        ],
         "privacy": {
           "NSLocalNetworkUsageDescription": "Needs to download torrents",
           "NSLocationAlwaysAndWhenInUseUsageDescription": "More robust alternative to hold app working in background which requires additional permission",
@@ -552,6 +554,33 @@
           "downloadURL": "https://dl.pokemmo.com/PokeMMO-Client.ipa?r=31914",
           "size": 136520691,
           "localizedDescription": "Initial release via repo sync."
+        }
+      ]
+    },
+    {
+      "name": "Gemini Notebook",
+      "bundleIdentifier": "com.google.NotebookLM",
+      "developerName": "Google",
+      "subtitle": "Understand anything",
+      "localizedDescription": "Turn complexity into clarity with Gemini Notebook, your brain’s new friend. Join the millions of students, creators, researchers, professionals, CEOs, and more who are saving time, getting stuff done, and learning in new ways.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/b6/a6/62b6a669-932b-6efd-781d-52214bfd57fc/logo_gemini_notebook_ios_color-0-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#F65656",
+      "size": 75392614,
+      "beta": false,
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/ReallySprinkles/altstorerepobyreallysprinkles/refs/heads/main/IMG_3064.png",
+        "https://raw.githubusercontent.com/ReallySprinkles/altstorerepobyreallysprinkles/refs/heads/main/IMG_3065.png",
+        "https://raw.githubusercontent.com/ReallySprinkles/altstorerepobyreallysprinkles/refs/heads/main/IMG_3066.png",
+        "https://raw.githubusercontent.com/ReallySprinkles/altstorerepobyreallysprinkles/refs/heads/main/IMG_3067.png",
+        "https://raw.githubusercontent.com/ReallySprinkles/altstorerepobyreallysprinkles/refs/heads/main/IMG_3068.png"
+      ],
+      "versions": [
+        {
+          "version": "1.47.6",
+          "date": "2026-07-16",
+          "downloadURL": "https://github.com/ReallySprinkles/altstorerepobyreallysprinkles/releases/download/1.47.6/com.google.NotebookLM-1.47.6-Decrypted.ipa",
+          "size": 75392614,
+          "localizedDescription": "NotebookLM is now called Gemini Notebook."
         }
       ]
     }
