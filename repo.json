@@ -45,11 +45,13 @@
       "developerName": "ReallySprinkles",
       "localizedDescription": "TrollInstallerX",
       "iconURL": "https://raw.githubusercontent.com/ReallySprinkles/altstorerepobyreallyreallysprinkles/refs/heads/main/IMG_3008.png",
+      "size": 6889185,
       "versions": [
         {
           "version": "1.0.3",
           "date": "2026-07-18",
           "downloadURL": "https://github.com/ReallySprinkles/altstorerepobyreallysprinkles/releases/download/1.0.3/TrollInstallerX_1.0.3_1784393200.ipa",
+          "size": 6889185,
           "localizedDescription": "Initial release."
         }
       ]
